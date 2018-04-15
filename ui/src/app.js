@@ -37,6 +37,11 @@ var coins = {
     unitScale: 8,
     displayScale: 5,
     displayCode: 'mDASH'
+  },  
+  XMCC: {
+    unitScale: 8,
+    displayScale: 5,
+    displayCode: 'mXMCC'
   },
   BCH: {
     unitScale: 8,
